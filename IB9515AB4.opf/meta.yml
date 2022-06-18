@@ -1,0 +1,38 @@
+id: IB9515AB4
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-18T20:13:37.641987'
+last_modified: '2022-06-18T20:13:37.641999'
+parser: null
+source_metadata:
+  title: Prajñāpāramitāsūtra in eight thousand lines (Old Gongkar block print), colophon
+    excerpt from Golden manuscript, unrevised
+  author: mi gsal/
+  description: 'Digital version 1.0 {Wylie}, diplomatic edition of witness A; WYLIE
+    COPY of master xml (completed: 2020-05-29); revised, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Excerpt/Colophon'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Mathias Fermer (mf)
+  - Editorial process:-
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/4861
+  bases:
+    907b:
+      title: Prajñāpāramitāsūtra in eight thousand lines (Old Gongkar block print),
+        colophon excerpt from Golden manuscript, unrevised
+      order: 1
+      base_file: 907b.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
